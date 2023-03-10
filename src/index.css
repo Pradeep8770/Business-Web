@@ -1,13 +1,65 @@
-body {
+*{
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar{
+  background-color: #fff;
+}
+
+.navbar-brand{
+  font-size: 1.3rem;
+  color: #565387;
+}
+
+.navbar a{
+  font-size: 1.3rem;
+  text-transform: capitalize;
+
+}
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+
+}
+
+.navbar a:hover{
+  color: #3498db;
+}
+
+@media (max-width: 991px ){
+  .navbar-brand{
+    font-size: 1.5rem;
+  }
+}
+
+/* #Main Landing section >>>>>>>>>>>>>>> */
+/* #Main Landing section >>>>>>>>>>>>>>> */
+
+#header{
+  width: 100%;
+  height: 80vh;
+  margin-top: 70px;
+
+}
+
+#header h1{
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  color: black;
+
+}
+
+#header .brand-name {
+  color: #3498db;
+}
+
+#header h2{
+  color: #484848;
+}
+
+#header .btn-get-started {
+  
 }
