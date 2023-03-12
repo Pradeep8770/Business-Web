@@ -1,8 +1,12 @@
 import React from 'react'
+import Common from './Common';
 
 function About() {
   return (
-    <div>About</div>
+    <>
+    <Common name="Welcome to About page" imgsrc={''} visit="/contact" btnname="Contact Now" />
+
+    </>
   )
 }
 
