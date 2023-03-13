@@ -5,7 +5,11 @@ import Common from './Common';
 function Home() {
   return (
     <>
-      <Common name="Grow your business with" imgsrc={web} visit="/service" btnname="Get Started" />
+      <Common 
+      name="Grow your business with" 
+      imgsrc={web} 
+      visit="/service" 
+      btnname="Get Started" />
     </>
   )
 }
