@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Business-Web/static/css/main.b49503d7.css",
+    "main.js": "/Business-Web/static/js/main.0929216a.js",
+    "static/media/software.jpeg": "/Business-Web/static/media/software.8c9afabd46628c395c3e.jpeg",
+    "static/media/digital.png": "/Business-Web/static/media/digital.b2882fbe3b47cf5e6d45.png",
+    "static/media/web.jpeg": "/Business-Web/static/media/web.94a12df39ac1e2322c48.jpeg",
+    "static/media/App.jpeg": "/Business-Web/static/media/App.c709b895ada3c54bc4a5.jpeg",
+    "static/media/artificial.jpeg": "/Business-Web/static/media/artificial.a4f5cef56a7e39304687.jpeg",
+    "static/media/image-1.svg": "/Business-Web/static/media/image-1.e7fd0478451b8d72ff9b93b1ea475b66.svg",
+    "static/media/image-2.svg": "/Business-Web/static/media/image-2.9ec826218950e69cbe71de681fcf291a.svg",
+    "static/media/android.jpeg": "/Business-Web/static/media/android.bdd908e3fa178b76db2d.jpeg",
+    "index.html": "/Business-Web/index.html",
+    "main.b49503d7.css.map": "/Business-Web/static/css/main.b49503d7.css.map",
+    "main.0929216a.js.map": "/Business-Web/static/js/main.0929216a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49503d7.css",
+    "static/js/main.0929216a.js"
+  ]
+}
